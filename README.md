@@ -3,6 +3,8 @@
 
 
 * 1.如果这个UIView是用代码手动创建的，UIScrollView里面的内容就没有问题。 如果这个UIView是从storyboard里面拉出来的，UIScrollView的内容就会不对,里面的内容会上下滚动。如下图：上面是从storyboard里面拉出来的，下面是用代码手动创建的
+
+
 ![Alt text](./img/screenshot_1.jpg)
 
 
